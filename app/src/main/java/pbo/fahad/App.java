@@ -12,6 +12,7 @@ package pbo.fahad;
             this.name = name;
             this.price = price;
             this.category = category;
+            totalMenu++;
         }
 
         public void showMenu() {
